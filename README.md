@@ -131,4 +131,10 @@ code .
 
 - [ ] Stage and commit your resolved conflict. 
 
-> Do you remember what commands you can use to do this?
+> Do you remember what command(s) you can use to do this?
+
+## You've done it!
+
+You've officially merged a conflict. Congratulations!
+
+The ones you face in the future will undoubtedly be trickier. To help manage that greater level of complexity, you'll want to make sure to discuss with your partners what code you do and do not want to keep. Different members will be more familiar with certain parts than others. When in doubt, talk it out.
