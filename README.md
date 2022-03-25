@@ -4,7 +4,7 @@ While working on your capstone projects, you will likely try to merge two sets o
 
 ## Step 1: Setup a directory
 
-- [] Set up a directory for the purpose of this exercise.
+- [ ] Set up a directory for the purpose of this exercise.
 
 It does not matter what you name it or where you put it. That's up to you.
 
